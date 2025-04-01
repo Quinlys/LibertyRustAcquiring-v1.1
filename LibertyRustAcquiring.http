@@ -1,0 +1,6 @@
+@LibertyRustAcquiring_HostAddress = http://localhost:5201
+
+GET {{LibertyRustAcquiring_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
